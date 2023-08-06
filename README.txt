@@ -1,6 +1,7 @@
 Python Game Server Backup
 
 PGSB.Client_v02.py - aktuelle Version
+PGSB.Server_v02.py - aktuelle Version
 
 ---------
 
